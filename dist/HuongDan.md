@@ -1,0 +1,1 @@
+Kéo file cần lọc vào cùng thư mục với file exe này. Sau đó nhập tên file (ghi cả duôi txt) rồi nhấn ok 
